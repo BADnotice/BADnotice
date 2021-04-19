@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**BADnotice/BADnotice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, aqui você encontrará uma das maiores paixões da minha vida, a programação, onde estou sempre em busca de mais conhecimento e buscando evoluir..
 
-Here are some ideas to get you started:
+## Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![SQLite](https://img.shields.io/badge/SQLite-44a2d4?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Languages
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=badnotice&layout=compact&theme=dracula&hide_title=true&langs_count=10)
+
+### Contributions
+
+![Github Contributions](https://github-readme-stats.vercel.app/api?username=badnotice&theme=dracula&show_icons=true&hide_title=true&count_private=true)
+
+### Contacts
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/811063542077587497)
