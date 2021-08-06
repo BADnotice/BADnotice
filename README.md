@@ -2,7 +2,7 @@
 aqui você encontrará uma das maiores paixões da minha vida, a programação, onde estou sempre em busca de mais conhecimento e buscando evoluir..
 
  <div>
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/BADnotice">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BADnotice&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BADnotice&layout=compact&langs_count=7&theme=dracula"/>
 </div>
